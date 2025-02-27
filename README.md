@@ -1,5 +1,7 @@
 # Google Sheets Clone
 
+![Home Page](public/home.png)
+
 This project is a web application that mimics the core functionalities and user interface of Google Sheets. It allows users to create and manipulate spreadsheet data, apply mathematical and data quality functions, and interact with the sheet in a familiar way.
 
 ## Features
@@ -90,4 +92,8 @@ This project is a web application that mimics the core functionalities and user 
     # or
     yarn dev
     # or
-    pnpm# Google-Sheets-Clone
+    pnpm dev
+    ```
+
+5.  Open your browser and navigate to [`http://localhost:3000`](google-sheets-clone/.next/static/chunks/polyfills.js ).
+
